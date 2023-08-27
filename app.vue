@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <div>hello</div>
+    <Case />
   </div>
 </template>
 
